@@ -237,7 +237,6 @@ Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
 ## Protótipo
 * Link de acesso ao protótipo - Figma: https://www.figma.com/design/FbLMfxP96eE3xyTyUY5pwd/Untitled?node-id=0-1&t=6hUynwbMCRJhAYJc-1
 
-#
 <hr>
 
 Kamila Antunes ☕
