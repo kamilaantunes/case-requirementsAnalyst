@@ -235,7 +235,7 @@ Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
 * Verificação: Verificar se os e-mails são enviados corretamente e se contêm informações precisas sobre o status de solicitações.
 
 ## Protótipo
-* Link de acesso ao protótipo - Figma: https://www.figma.com/design/FbLMfxP96eE3xyTyUY5pwd/Untitled?node-id=0-1&t=6hUynwbMCRJhAYJc-1
+* Link de acesso ao protótipo - Figma: https://www.figma.com/proto/FbLMfxP96eE3xyTyUY5pwd/Untitled?node-id=10-401&t=wGeJ9a4a9cvoISJ2-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A23
 
 <hr>
 
